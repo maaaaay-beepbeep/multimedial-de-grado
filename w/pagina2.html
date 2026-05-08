@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>obra2 - Cromática Ficticia</title>
+
+    <style>
+        /* Estilo general del cuerpo */
+        body {
+            font-family: 'Times New Roman', Times, serif
+            margin: 0;
+            padding: 0;
+            /* Permitir scroll vertical */
+            overflow-y: auto; 
+            min-height: 100vh;
+            
+            /* Fondo con superposición oscura (radial-gradient) encima del fondo animado */
+            background: 
+                linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
+                linear-gradient(135deg, #fc3232, #ff9719, #fff30e, #abf712, #31faaa, #2bdcfb, #1654ff, #693ded, #c427f9, #f830e7);
+            
+            background-size: 100% 100%, 1000% 1000%;
+            background-attachment: fixed, fixed; /* Mantener fondos fijos al hacer scroll */
+            
+            /* Aplicar la animación solo al linear-gradient (segundo fondo) */
+            animation: gradient 30s ease-in-out infinite;
+        }
+
+        /* Definición de la animación de fondo */
+        @keyframes gradient {
+            0% { background-position: 50% 50%, 0% 50%; }
+            50% { background-position: 50% 50%, 100% 50%; }
+            100% { background-position: 50% 50%, 0% 50%; }
+        }
+
+        /* Contenedor principal */
+        .contenedor {
+            width: 80%;
+            max-width: 1000px; /* Limitar ancho máximo */
+            margin: 40px auto; /* Centrar y dar margen superior/inferior */
+            padding-bottom: 50px; /* Espacio al final */
+        }
+
+        /* Título principal de la obra */
+        .titulo-obra {
+            text-align: center;
+            color: rgb(0, 0, 0);
+            font-size: 5rem;
+            margin-bottom: 40px;
+        }
+
+        /* Sección o bloque */
+        .bloque {
+            background-color: rgb(198, 192, 192);
+            margin: 30px 0;
+            padding: 30px;
+            border-radius: 10px;
+            overflow: hidden; /* Asegurar que el contenido no se salga de los bordes redondeados */
+        }
+
+        /* Imagen dentro del bloque */
+        .bloque img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        /* Encabezado dentro del bloque */
+        .bloque h2 {
+            margin-top: 0;
+            color: #333;
+        }
+
+        /* Texto dentro del bloque */
+        .bloque p {
+            line-height: 1.6;
+            color: #555;
+            margin-bottom: 0;
+        }
+
+        /* Contenedor de navegación final */
+        .navegacion-final {
+            text-align: center;
+            margin-top: 50px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        /* Estilo de los enlaces como botones */
+        .navegacion-final a {
+            display: inline-block;
+            text-decoration: none;
+            color: white;
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 12px 24px;
+            border-radius: 30px;
+            font-weight: bold;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            backdrop-filter: blur(5px); /* Efecto blur opcional */
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .navegacion-final a:hover {
+            background-color: rgba(255, 255, 255, 0.9);
+            color: #333;
+            transform: translateY(-3px); /* Pequeño salto al pasar el mouse */
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="contenedor">
+
+        <h1 class="titulo-obra">Cromática Ficticia</h1>
+
+        <div class="bloque">
+            <h2>Pieza Principal</h2>
+            <img src="img/IMG_20251029_105153.jpg" alt="Descripción de la imagen">
+            <p>
+                Este es un texto de ejemplo. Aquí puedes escribir contenido descriptivo,
+                reflexivo o informativo sobre la imagen de la obra "Cromática Ficticia".
+            </p>
+        </div>
+
+        <div class="bloque">
+            <img src="img/IMG_20251015_141813oficial2.jpg" alt="Descripcion de la imagen">
+            <h2>Estudio de Color</h2>
+            <p>
+                Otro texto.
+            </p>
+        </div>
+
+        <div class="bloque">
+            <img src="img/IMG_20251015_14223727oct.jpg" alt="Descripción de la imagen">
+            <h2>Variacion y Textura</h2>
+            <p>
+                Este es un tercer bloque. Puedes repetir esta estructura
+                tantas veces como quieras para mostrar diferentes partes o tomas.
+            </p>
+        </div>
+
+        <div class="navegacion-final">
+            <a href="index.html">Volver a la página principal</a>
+            <a href="pagina3.html">Ir a la tercera página</a>
+        </div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>contacto</title>
+
+    <style>
+        /* Estilo general del cuerpo */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            /* Degradado con 10 colores para una transición suave y continua */
+            background: linear-gradient(
+                135deg, 
+                #fc3232, #ff9719, #fff30e, #abf712, #31faaa, 
+                #2bdcfb, #1654ff, #693ded, #c427f9, #f830e7
+            );
+            background-size: 1000% 1000%;
+            animation: gradient 30s ease-in-out infinite;
+            /* Asegura que el fondo cubra toda la pantalla incluso si hay poco contenido */
+            min-height: 100vh;
+            background-attachment: fixed;
+        }
+
+        @keyframes gradient {
+            0% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        .contenedor {
+            width: 80%;
+            margin: auto;
+            padding: 20px 0;
+        }
+
+        .bloque {
+            background-color: white;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        .bloque img {
+            width: 100%;
+            height: auto;
+        }
+
+        .bloque h2 {
+            margin-top: 10px;
+        }
+
+        .bloque p {
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Contenedor principal -->
+    <div class="contenedor">
+
+        <!-- BLOQUE 1 -->
+        <div class="bloque">
+            <h2>Contacto</h2>
+            <p>holaaaaaaa@no_sé.cl</p>
+
+            <a href="index.html">Volver a la página principal</a>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
