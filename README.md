@@ -8,8 +8,8 @@
 ## Unidad II.
 1. [Intro ToucDesigner](#1-intro-a-touchdesigner) <br>
 2. [Ejercicios:](#2-canasta-de-ejercicios) <br>
-3. Comfy Desktop
-4. Entrega final
+3. [Comfy Desktop](#3-comfy-desktop) <br>
+4. [Entrega final](#4-Entrega-final) <br>
 
 ### Unidad I
 #### Mi primera página
@@ -85,8 +85,15 @@ MULTIMEDIAL
 ```
 
 #### Página experimental / Portafolio
+
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20135852.png" width="auto" height="auto"/>
+
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20135808.png" width="auto" height="auto"/>
+
+
+enlace: 
 ```js
-enlace https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html
+https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html
 ```
 
 ### Unidad II
@@ -95,7 +102,7 @@ enlace https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html
 #### 2. Ejercicios
 
 a. Point
-<img src="" width="auto" height="auto"/>
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20141134.png" width="auto" height="auto"/>
 
 b. Lsystem
 
@@ -105,13 +112,12 @@ c. Kantanmapper
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20141954.png" width="auto" height="auto"/>
 
-
 #### 3. Comfy desktop
 
 Prompt:
-
+```js
 Instalación artística abstracta. Gran abundancia de cubos pequeños de hormigón a ras de suelo, situados en una habitación espaciosa de paredes blancas, techo blanco y suelo opaco gris. En todos y cada unos de los cubos, en la cara superior, se observa la proyección con mapping de luz de color plano muy saturado; en cada cara superior es un color distinto. Unicamente, en la cara superior de los cubos se observa la luz de color, el resto de caras laterales del cubo mantienen su material base, es decir el hormigón. La paleta de colores es amplia y variada, solo colores planos. La proyección proviene de arriba hacia abajo, desde el techo hacia la cara superior de cada cubo que se encuentran dispuestos en el suelo de la habitación. Esta proyección de luces de colores se observa solo y únicamente en las caras superiores de cada cubo instalado en el suelo. La iluminación de la habitación es baja y oscura para que resalte la proyección en los cubos.
-
+```
 
 #### registros:
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/z-image-turbo_00003_4pasos.png" width="auto" height="auto"/>
@@ -123,7 +129,6 @@ Instalación artística abstracta. Gran abundancia de cubos pequeños de hormig�
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/z-image-turbo_00018_.png" width="auto" height="auto"/>
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/z-image-turbo_00025_.png" width="auto" height="auto"/>
-
 
 #### 4. Entrega final
 
@@ -139,7 +144,6 @@ imágenes originales:
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251029_104926.jpg" width="auto" height="auto"/> 
 
-
 proceso en TouchDesigner:
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20134218.png" width="auto" height="auto"/> 
@@ -150,3 +154,6 @@ proceso en TouchDesigner:
 
 
 registro obra:
+
+<img src="" width="auto" height="auto" />
+falta el gif acá, no me deja
