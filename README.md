@@ -178,9 +178,7 @@ MULTIMEDIAL
 </body>
 </html>
 ```
-```js
-## [entra a mi portafolio](https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html)
-``` 
+<a class="boton" href="https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html">Entra a mi portafolio →</a>
 
 ## Unidad II
 ### 1. Introducción TouchDesigner
