@@ -264,14 +264,14 @@ proceso en TouchDesigner:
 
 imágenes originales:
 
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_141633.jpg" width="50%"/> 
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_141633.jpg" width="70%"/> 
 
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_141812.jpg" width="50%"/> 
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_141812.jpg" width="70%"/> 
 
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_142243.jpg" width="50%"/> 
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_142243.jpg" width="70%"/> 
 
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251028_133556.jpg" width="50%"/> 
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251028_133556.jpg" width="70%"/> 
 
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251029_104926.jpg" width="50%"/> 
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251029_104926.jpg" width="70%"/> 
 
 ####Esta bitácora contiene uso de IA para ajustes de códigos y estética de la página.
