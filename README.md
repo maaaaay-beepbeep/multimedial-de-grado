@@ -83,14 +83,103 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 ```
 
-#### Página experimental / Portafolio
+#### Mi sitio web / Portafolio
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20135852.png" width="auto" height="auto"/>
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20135808.png" width="auto" height="auto"/>
 
+CÓDIGO
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Bienvenida - May</title>
+    <style>
+        /* Fondo animado de 10 colores */
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+            background: linear-gradient(
+                135deg, 
+                #fc3232, #ff9719, #fff30e, #abf712, #31faaa, 
+                #2bdcfb, #1654ff, #693ded, #c427f9, #f830e7
+            );
+            background-size: 1000% 1000%;
+            animation: gradient 30s ease-in-out infinite;
+        }
 
-[ver portafolio](https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html) 
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        /* Tarjeta central de bienvenida */
+        .bienvenida {
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 50px 80px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            backdrop-filter: blur(5px);
+        }
+
+        h1 {
+            font-size: 3rem;
+            color: #333;
+            margin-bottom: 20px;
+            letter-spacing: 2px;
+        }
+
+        .enlaces {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            margin-top: 30px;
+        }
+
+        .enlaces a {
+            text-decoration: none;
+            color: white;
+            background-color: #333;
+            padding: 12px 25px;
+            border-radius: 50px;
+            font-weight: bold;
+            transition: transform 0.3s, background-color 0.3s;
+        }
+
+        .enlaces a:hover {
+            transform: translateY(-5px);
+            background-color: #000;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="bienvenida">
+        <h1>MAY</h1>
+        <p></p>
+        
+        <div class="enlaces">
+            <a href="indice.html">Ver Obras</a>
+            <a href="contacto.html">Contacto</a>
+            <a href="pagina3.html">ñau</a>
+        </div>
+    </div>
+
+</body>
+</html>
+```
+```js
+## [entra a mi portafolio](https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html)
+``` 
 
 ### Unidad II
 ### 1. Introducción TouchDesigner
