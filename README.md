@@ -7,9 +7,8 @@
 
 ## Unidad II.
 1. [Intro ToucDesigner](#1-introducción-touchdesigner) <br>
-2. [Ejercicios](#2-ejercicios) <br>
-3. [Comfy Desktop](#3-comfy-desktop) <br>
-4. [Entrega final](#4-entrega-final) <br>
+2. [Comfy Desktop](#2-comfy-desktop) <br>
+3. [Entrega final](#3-entrega-final) <br>
 
 ### Unidad I
 #### Mi primera página
@@ -94,22 +93,21 @@ MULTIMEDIAL
 [ver portafolio](https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html) 
 
 ### Unidad II
-#### 1. Introducción TouchDesigner
+### 1. Introducción TouchDesigner
 
-#### 2. Ejercicios
+primer ejercicio: Point
 
-a. Point
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20141134.png" width="auto" height="auto"/>
 
-b. Lsystem
+segundo ejercicio: Lsystem
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20141241.png" width="auto" height="auto"/>
 
-c. Kantanmapper
+tercer ejercicio: Kantanmapper
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20141954.png" width="auto" height="auto"/>
 
-#### 3. Comfy desktop
+### 2. Comfy desktop
 
 Prompt:
 ```text
@@ -127,7 +125,19 @@ Instalación artística abstracta. Gran abundancia de cubos pequeños de hormig�
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/z-image-turbo_00025_.png" width="auto" height="auto"/>
 
-#### 4. Entrega final
+### 3. Entrega final
+
+registro obra:
+
+<img src="https://github.com/maaaaay-beepbeep/multimedial-de-grado/raw/6c09ebc/img2/Grabaci%C3%B3n%20oficial%202026-11-20%20134926.gif" width="700"/>
+
+proceso en TouchDesigner:
+
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20134218.png" width="auto" height="auto"/> 
+
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20135159.png" width="auto" height="auto"/> 
+
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20134552.png" width="auto" height="auto"/> 
 
 imágenes originales:
 
@@ -141,15 +151,3 @@ imágenes originales:
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251029_104926.jpg" width="auto" height="auto"/> 
 
-proceso en TouchDesigner:
-
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20134218.png" width="auto" height="auto"/> 
-
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20135159.png" width="auto" height="auto"/> 
-
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20134552.png" width="auto" height="auto"/> 
-
-
-registro obra:
-
-<img src="https://github.com/maaaaay-beepbeep/multimedial-de-grado/raw/6c09ebc/img2/Grabaci%C3%B3n%20oficial%202026-11-20%20134926.gif" width="700"/>
