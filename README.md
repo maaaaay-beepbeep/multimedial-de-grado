@@ -241,5 +241,4 @@ imágenes originales:
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251029_104926.jpg" width="auto" height="auto"/> 
 
-####
-* Esta bitácora contiene uso de IA para ajustes de códigos y estética de la página, con un archivo assets/css/style.scss
+####Esta bitácora contiene uso de IA para ajustes de códigos y estética de la página, con un archivo assets/css/style.scss
