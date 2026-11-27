@@ -1,5 +1,4 @@
 # bitácora
-### taller multimedial de grado
 
 ### Índice
 
@@ -91,7 +90,7 @@ MULTIMEDIAL
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20135808.png" width="auto" height="auto"/>
 
-CÓDIGO
+### CÓDIGO
 ```html
 <!DOCTYPE html>
 <html lang="es">
