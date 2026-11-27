@@ -1,3 +1,38 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&display=swap');
+/* Fondo animado de 10 colores (igual que mi portafolio) */
+body {
+  background: linear-gradient(135deg, #fc3232, #ff9719, #fff30e, #abf712, #31faaa, #2bdcfb, #1654ff, #693ded, #c427f9, #f830e7);
+  background-size: 1000% 1000%;
+  background-attachment: fixed;
+  animation: gradient 30s ease-in-out infinite;
+}
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+/* Tarjeta blanca */
+.markdown-body {
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  padding: 40px !important;
+}
+/* Títulos */
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 { font-family: 'Outfit', sans-serif; }
+.markdown-body > h1:first-child a { color: #333; text-decoration: none; pointer-events: none; }
+.markdown-body h1 { font-size: 3.5rem; font-weight: 800; text-align: center; }
+.markdown-body h2 { background-color: #333; color: white; padding: 12px 30px; border-radius: 50px; border-bottom: none; margin-top: 60px; }
+.markdown-body h4 { display: inline-block; border: 2px solid #333; border-radius: 50px; padding: 4px 16px; text-transform: uppercase; }
+/* Imágenes y código */
+.markdown-body img { border-radius: 12px; }
+.markdown-body pre, .markdown-body pre code { color: #1f2328 !important; }
+/* Botón igual a los de mi portafolio */
+.markdown-body a.boton { display: inline-block; text-decoration: none; color: white; background-color: #333; padding: 14px 32px; border-radius: 50px; font-weight: 600; transition: transform 0.3s; }
+.markdown-body a.boton:hover { transform: translateY(-5px); background-color: #000; }
+</style>
+
 # bitácora
 
 ### Índice
