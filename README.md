@@ -218,7 +218,7 @@ MULTIMEDIAL
 ## Unidad II
 ### 1. Introducción TouchDesigner
 
-primer ejercicio: Point
+#### primer ejercicio: Point
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20141134.png" width="auto" height="auto"/>
 
@@ -250,11 +250,11 @@ Instalación artística abstracta. Gran abundancia de cubos pequeños de hormig�
 
 ### 3. Entrega final
 
-registro obra:
+#### registro obra:
 
 <img src="https://github.com/maaaaay-beepbeep/multimedial-de-grado/raw/6c09ebc/img2/Grabaci%C3%B3n%20oficial%202026-11-20%20134926.gif" width="100%"/>
 
-proceso en TouchDesigner:
+#### proceso en TouchDesigner:
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20134218.png" width="auto" height="auto"/> 
 
@@ -262,7 +262,7 @@ proceso en TouchDesigner:
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20134552.png" width="auto" height="auto"/> 
 
-imágenes originales:
+#### imágenes originales:
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_141633.jpg" width="70%"/> 
 
