@@ -152,5 +152,4 @@ proceso en TouchDesigner:
 
 registro obra:
 
-<img src="" width="auto" height="auto" />
-falta el gif acá, no me deja
+<img src="https://github.com/maaaaay-beepbeep/multimedial-de-grado/raw/6c09ebc/img2/Grabaci%C3%B3n%20oficial%202026-11-20%20134926.gif" width="700"/>
