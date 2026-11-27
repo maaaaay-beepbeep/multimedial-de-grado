@@ -1,17 +1,19 @@
-# MULTIMEDIAL
+# bitácora
+### taller multimedial de grado
 
+### Índice
 
-## Unidad I.
+**Unidad I**
 1. [Mi Primera página](#mi-primera-página) <br> 
 2. [Mi sitio web / portafolio](https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html)
 
-## Unidad II.
-1. [Intro ToucDesigner](#1-introducción-touchdesigner) <br>
+**Unidad II**
+1. [Intro TouchDesigner](#1-introducción-touchdesigner) <br>
 2. [Comfy Desktop](#2-comfy-desktop) <br>
 3. [Entrega final](#3-entrega-final) <br>
 
-### Unidad I
-#### Mi primera página
+## UNIDAD I
+### Mi primera página
 ```html
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
@@ -83,7 +85,7 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 ```
 
-#### Mi sitio web / Portafolio
+### Mi sitio web / Portafolio
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20135852.png" width="auto" height="auto"/>
 
@@ -181,7 +183,7 @@ CÓDIGO
 ## [entra a mi portafolio](https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html)
 ``` 
 
-### Unidad II
+## Unidad II
 ### 1. Introducción TouchDesigner
 
 primer ejercicio: Point
