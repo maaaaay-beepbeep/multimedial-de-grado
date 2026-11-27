@@ -274,4 +274,4 @@ Instalación artística abstracta. Gran abundancia de cubos pequeños de hormig�
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251029_104926.jpg" width="70%"/> 
 
-#### Esta bitácora contiene uso de IA para ajustes de códigos y estética de la página.
+<p style="color: #777;">Esta bitácora contiene uso de IA para ajustes de códigos y estética de la página.</p>
