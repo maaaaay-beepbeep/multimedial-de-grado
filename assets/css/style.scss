@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Fondo animado de 10 colores (el mismo de tu portafolio) */
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: linear-gradient(
+    135deg,
+    #fc3232, #ff9719, #fff30e, #abf712, #31faaa,
+    #2bdcfb, #1654ff, #693ded, #c427f9, #f830e7
+  );
+  background-size: 1000% 1000%;
+  background-attachment: fixed;
+  animation: gradient 30s ease-in-out infinite;
+}
+
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Tarjeta blanca donde va el contenido */
+.markdown-body {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  padding: 40px !important;
+}
+
+/* Imágenes con bordes redondeados */
+.markdown-body img {
+  border-radius: 12px;
+}
