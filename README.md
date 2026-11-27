@@ -222,11 +222,11 @@ MULTIMEDIAL
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20141134.png" width="auto" height="auto"/>
 
-segundo ejercicio: Lsystem
+#### segundo ejercicio: Lsystem
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20141241.png" width="auto" height="auto"/>
 
-tercer ejercicio: Kantanmapper
+#### tercer ejercicio: Kantanmapper
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-20%20141954.png" width="auto" height="auto"/>
 
