@@ -249,6 +249,10 @@ tercer ejercicio: Kantanmapper
 
 ### 3. Entrega final
 
+> La obra habla sobre el aspecto cromático de la ciudad: el recorrido que realizo por mi barrio y por la ciudad, y la imaginación de una ciudad ultracromática.
+>
+> Reutilicé fotografías de mi autoría, tomadas en mis primeras obras de investigación. Usé un ramp para aplicarles colores saturados que van cambiando de forma constante, en ciclo (loop). Las fotografías están sobre un geo de forma cilíndrica que gira sin parar, aludiendo a un recorrido que no se detiene y a lugares que veo de forma constante.
+
 #### registro obra:
 
 <img src="https://github.com/maaaaay-beepbeep/multimedial-de-grado/raw/6c09ebc/img2/Grabaci%C3%B3n%20oficial%202026-11-20%20134926.gif" width="100%"/>
