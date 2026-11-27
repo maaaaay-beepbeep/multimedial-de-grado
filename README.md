@@ -252,7 +252,7 @@ Instalación artística abstracta. Gran abundancia de cubos pequeños de hormig�
 
 registro obra:
 
-<img src="https://github.com/maaaaay-beepbeep/multimedial-de-grado/raw/6c09ebc/img2/Grabaci%C3%B3n%20oficial%202026-11-20%20134926.gif" width="700"/>
+<img src="https://github.com/maaaaay-beepbeep/multimedial-de-grado/raw/6c09ebc/img2/Grabaci%C3%B3n%20oficial%202026-11-20%20134926.gif" width="100%"/>
 
 proceso en TouchDesigner:
 
@@ -264,14 +264,14 @@ proceso en TouchDesigner:
 
 imágenes originales:
 
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_141633.jpg" width="auto" height="auto"/> 
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_141633.jpg" width="50%"/> 
 
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_141812.jpg" width="auto" height="auto"/> 
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_141812.jpg" width="50%"/> 
 
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_142243.jpg" width="auto" height="auto"/> 
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251015_142243.jpg" width="50%"/> 
 
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251028_133556.jpg" width="auto" height="auto"/> 
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251028_133556.jpg" width="50%"/> 
 
-<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251029_104926.jpg" width="auto" height="auto"/> 
+<img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/IMG_20251029_104926.jpg" width="50%"/> 
 
-####Esta bitácora contiene uso de IA para ajustes de códigos y estética de la página, con un archivo assets/css/style.scss
+####Esta bitácora contiene uso de IA para ajustes de códigos y estética de la página.
