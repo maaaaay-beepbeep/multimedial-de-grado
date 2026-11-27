@@ -125,7 +125,7 @@ MULTIMEDIAL
 
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20135808.png" width="auto" height="auto"/>
 
-### CÓDIGO
+### CÓDIGO INDEX
 ```html
 <!DOCTYPE html>
 <html lang="es">
@@ -232,8 +232,7 @@ MULTIMEDIAL
 
 ### 2. Comfy desktop
 
-#### Prompt:
-
+### Prompt:
 > Instalación artística abstracta. Gran abundancia de cubos pequeños de hormigón a ras de suelo, situados en una habitación espaciosa de paredes blancas, techo blanco y suelo opaco gris. En todos y cada unos de los cubos, en la cara superior, se observa la proyección con mapping de luz de color plano muy saturado; en cada cara superior es un color distinto. Unicamente, en la cara superior de los cubos se observa la luz de color, el resto de caras laterales del cubo mantienen su material base, es decir el hormigón. La paleta de colores es amplia y variada, solo colores planos. La proyección proviene de arriba hacia abajo, desde el techo hacia la cara superior de cada cubo que se encuentran dispuestos en el suelo de la habitación. Esta proyección de luces de colores se observa solo y únicamente en las caras superiores de cada cubo instalado en el suelo. La iluminación de la habitación es baja y oscura para que resalte la proyección en los cubos.
 
 #### registros:
