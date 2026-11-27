@@ -2,18 +2,18 @@
 
 
 ## Unidad I.
-1. [Mi Primera página.](#mi-primera-página) <br> 
-2. [Mi sitio web experimental/portafolio](https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html)
+1. [Mi Primera página](#mi-primera-página) <br> 
+2. [Mi sitio web / portafolio](https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html)
 
 ## Unidad II.
-1. [Intro ToucDesigner](#1-intro-a-touchdesigner) <br>
-2. [Ejercicios:](#2-canasta-de-ejercicios) <br>
+1. [Intro ToucDesigner](#1-introducción-touchdesigner) <br>
+2. [Ejercicios](#2-ejercicios) <br>
 3. [Comfy Desktop](#3-comfy-desktop) <br>
-4. [Entrega final](#4-Entrega-final) <br>
+4. [Entrega final](#4-entrega-final) <br>
 
 ### Unidad I
 #### Mi primera página
-```js
+```html
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
 
@@ -91,10 +91,7 @@ MULTIMEDIAL
 <img src="https://raw.githubusercontent.com/maaaaay-beepbeep/multimedial-de-grado/refs/heads/main/img2/Captura%20de%20pantalla%202026-11-25%20135808.png" width="auto" height="auto"/>
 
 
-enlace: 
-```js
-https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html
-```
+[ver portafolio](https://maaaaay-beepbeep.github.io/multimedial-de-grado/w/index.html) 
 
 ### Unidad II
 #### 1. Introducción TouchDesigner
@@ -115,7 +112,7 @@ c. Kantanmapper
 #### 3. Comfy desktop
 
 Prompt:
-```js
+```text
 Instalación artística abstracta. Gran abundancia de cubos pequeños de hormigón a ras de suelo, situados en una habitación espaciosa de paredes blancas, techo blanco y suelo opaco gris. En todos y cada unos de los cubos, en la cara superior, se observa la proyección con mapping de luz de color plano muy saturado; en cada cara superior es un color distinto. Unicamente, en la cara superior de los cubos se observa la luz de color, el resto de caras laterales del cubo mantienen su material base, es decir el hormigón. La paleta de colores es amplia y variada, solo colores planos. La proyección proviene de arriba hacia abajo, desde el techo hacia la cara superior de cada cubo que se encuentran dispuestos en el suelo de la habitación. Esta proyección de luces de colores se observa solo y únicamente en las caras superiores de cada cubo instalado en el suelo. La iluminación de la habitación es baja y oscura para que resalte la proyección en los cubos.
 ```
 
